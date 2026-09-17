@@ -1,0 +1,39 @@
+# Compiled executables and binaries
+*.exe
+*.out
+*.app
+*.bin
+
+# Object files and libraries
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.lib
+*.a
+
+# Debug files
+*.pdb
+*.idb
+*.ilk
+
+# Build directories
+build/
+bin/
+out/
+Debug/
+Release/
+
+# IDE and Editor files
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# OS generated files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
